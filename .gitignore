@@ -1,0 +1,10 @@
+*.apk
+*.aab
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+.env*
+*.log
